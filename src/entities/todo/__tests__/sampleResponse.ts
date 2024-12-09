@@ -1,0 +1,51 @@
+export const SAMPLE_RESPONSE = [
+  {
+    id: 1,
+    category: "work",
+    task: "Finish Firebase API",
+    createdAt: "2024-10-30T10:30:00.000Z",
+    completed: false,
+  },
+  {
+    id: 2,
+    category: "personal",
+    task: "Buy groceries",
+    createdAt: "2024-10-28T08:00:00.000Z",
+    completed: false,
+  },
+  {
+    id: 3,
+    category: "work",
+    task: "Send email to client",
+    createdAt: "2024-10-29T14:15:00.000Z",
+    completed: false,
+  },
+  {
+    id: 4,
+    category: "personal",
+    task: "Read a book",
+    createdAt: "2024-10-27T16:45:00.000Z",
+    completed: false,
+  },
+  {
+    id: 5,
+    category: "work",
+    task: "Prepare presentation",
+    createdAt: "2024-11-01T09:30:00.000Z",
+    completed: false,
+  },
+  {
+    id: 6,
+    category: "personal",
+    task: "Clean the house",
+    createdAt: "2024-10-31T15:20:00.000Z",
+    completed: true,
+  },
+  {
+    id: 7,
+    category: "work",
+    task: "Review team report",
+    createdAt: "2024-11-01T11:45:00.000Z",
+    completed: true,
+  },
+];
