@@ -11,6 +11,8 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
+    "dayjs": "^1.11.13",
     "next": "^15.0.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
